@@ -1,0 +1,12 @@
+.DS_Store
+.vs
+FNA/
+ImGui.NET/
+fnalibs/
+TestGame/bin
+TestGame/obj
+TestGame/CompiledContent/bin
+TestGame/CompiledContent/obj
+.mgstats
+imgui.ini
+imgui_log.txt
